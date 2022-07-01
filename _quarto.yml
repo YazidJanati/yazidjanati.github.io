@@ -9,6 +9,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/yazidjanati
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yazid-janati-414a4a1b7/
 format:
   html:
     theme: cosmo
