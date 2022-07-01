@@ -25,6 +25,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am currently a second year PhD student in Statistics at Télécom SudParis - Institut Polytechnique de Paris. I am advised by Sylvain Le Corff and Yohan Petetin."
+    "text": "I am mainly interested in Monte Carlo methods (importance sampling, sequential monte carlo) and these days i’m focusing on their synergy with variational inference. My current focus is driven by the following questions:\n\nHow to break the curse of dimensionality when optimizing the inclusive Kullback-Leibler divergence and \\(\\alpha\\) divergence?"
   }
 ]
