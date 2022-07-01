@@ -3,14 +3,12 @@ project:
   output-dir:  docs
 
 website:
-  title: "Yazid Janati"
+  title: "yazid janati"
   navbar:
-    right:
+    left:
       - about.qmd
-      - icon: github
-        href: https://github.com/yazidjanati
-      - icon: linkedin
-        href: https://www.linkedin.com/in/yazid-janati-414a4a1b7/
+      - papers/index.qmd
+
 format:
   html:
     theme: cosmo
