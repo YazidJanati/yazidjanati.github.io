@@ -1,6 +1,6 @@
 ---
 title: "about"
-image: profile.jpg
+image: profile_picture.jpg
 about:
   template: solana
   image-width: 10em
@@ -16,6 +16,6 @@ about:
 
 ---
 
-I am a PhD candidate in statistics at Télécom SudParis - Institut Polytechnique de Paris, advised by [Sylvain Le Corff](https://sylvainlc.github.io) and [Yohan Petetin](http://www-public.imtbs-tsp.eu/~petetin/). 
+I am a second year PhD candidate in statistics at Télécom SudParis - Institut Polytechnique de Paris, advised by [Sylvain Le Corff](https://sylvainlc.github.io) and [Yohan Petetin](http://www-public.imtbs-tsp.eu/~petetin/). 
 
 I am mainly interested in Monte Carlo methods (importance sampling, sequential monte carlo) and these days i'm focusing on their synergy with variational inference and generative modeling. 
