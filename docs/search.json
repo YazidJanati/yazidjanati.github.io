@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "papers",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach. Yazid Janati El idrissi, Sylvain Le Corff, Yohan Petetin. 2022, under review. pdf"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "papers/index.html#publications",
+    "href": "papers/index.html#publications",
+    "title": "papers",
+    "section": "publications",
+    "text": "publications\n\nNEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform. Achille Thin, Yazid Janati El Idrissi, Sylvain Le Corff, Charles Ollion, Eric Moulines, Arnaud Doucet, Alain Durmus, and Christian X. Robert. Advances in Neural Information Processing Systems 34 (2021): 17060-17071. pdf\nStructured variational Bayesian inference for Gaussian state-space models with regime switching. Yohan Petetin, Yazid Janati El Idrissi, and François Desbouvries. IEEE Signal Processing Letters 28 (2021): 1953-1957."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "website",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 28, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am mainly interested in Monte Carlo methods (importance sampling, sequential monte carlo) and these days i’m focusing on their synergy with variational inference. My current focus is driven by the following questions:\n\nHow to break the curse of dimensionality when optimizing the inclusive Kullback-Leibler divergence and \\(\\alpha\\) divergence?"
+    "text": "I am mainly interested in Monte Carlo methods (importance sampling, sequential monte carlo) and these days i’m focusing on their synergy with variational inference and generative modeling."
   }
 ]
