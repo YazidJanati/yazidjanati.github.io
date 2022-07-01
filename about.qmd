@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+I am currently a second year PhD student at Télécom SudParis - Institut Polytechnique de Paris under the supervision of Sylvain Le Corff and Yohan Petetin.
