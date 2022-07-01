@@ -2,14 +2,14 @@
   {
     "objectID": "papers/index.html",
     "href": "papers/index.html",
-    "title": "papers",
+    "title": "research",
     "section": "",
     "text": "Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach. Yazid Janati El idrissi, Sylvain Le Corff, Yohan Petetin. 2022, under review. pdf"
   },
   {
     "objectID": "papers/index.html#publications",
     "href": "papers/index.html#publications",
-    "title": "papers",
+    "title": "research",
     "section": "publications",
     "text": "publications\n\nNEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform. Achille Thin, Yazid Janati El Idrissi, Sylvain Le Corff, Charles Ollion, Eric Moulines, Arnaud Doucet, Alain Durmus, and Christian X. Robert. Advances in Neural Information Processing Systems 34 (2021): 17060-17071. pdf\nStructured variational Bayesian inference for Gaussian state-space models with regime switching. Yohan Petetin, Yazid Janati El Idrissi, and François Desbouvries. IEEE Signal Processing Letters 28 (2021): 1953-1957."
   },
