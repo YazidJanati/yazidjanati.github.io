@@ -23,7 +23,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
     "text": "I am mainly interested in Monte Carlo methods (importance sampling, sequential monte carlo) and these days i’m focusing on their synergy with variational inference and generative modeling."
   }

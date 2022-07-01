@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "about"
 image: profile.jpg
 about:
   template: solana
@@ -11,6 +11,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/yazidjanati
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=JGor6XwAAAAJ&hl=en
 
 ---
 
