@@ -1,5 +1,5 @@
 title = "Yazid Janati El Idrissi"
-baseURL = "https://example.com"
+baseURL = "https://yazidjanati.github.io"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
