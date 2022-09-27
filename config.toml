@@ -6,9 +6,6 @@ enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
-[permalinks]
-  "/" = "/:filename"
-
 [menu]
   [[menu.main]]
     name = "About"
