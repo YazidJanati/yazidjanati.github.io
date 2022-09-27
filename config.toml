@@ -1,0 +1,19 @@
+title = "Yazid Janati El Idrissi"
+baseURL = "https://example.com"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
