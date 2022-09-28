@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yazid Janati El Idrissi</title>
+    <link>https://yazidjanati.github.io/</link>
+    <description>Recent content on Yazid Janati El Idrissi</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yazidjanati.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yazidjanati.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yazidjanati.github.io/about/</guid>
+      <description>I am a second year PhD candidate in statistics at Télécom SudParis - Institut Polytechnique de Paris, advised by Sylvain Le Corff (LPSM, Sorbonne Université) and Yohan Petetin (CITI, Télécom SudParis). Previously I completed an engineering degree in applied Mathematics at Télécom SudParis.
+I am mainly interested in Monte Carlo methods (importance sampling, sequential monte carlo, MCMC), the theory behind and their synergy with variational inference. These days i am mostly working on finding efficient proposals for importance sampling through the minimization of divergence measures.</description>
+    </item>
+    
+  </channel>
+</rss>
