@@ -9,7 +9,7 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     name = "About"
-    url = ""
+    url = "\"
     weight = 1
 
 [markup.goldmark.renderer]
