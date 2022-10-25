@@ -8,6 +8,12 @@ Don't hesitate to get in touch if you want to collaborate !
 
 
 ## research [Google Scholar](https://scholar.google.com/citations?user=JGor6XwAAAAJ&hl=en)
+1. [*Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach*.]
+        with Gabriel Cardoso, Sylvain Le Corff, Eric Moulines and Jimmy Olsson. 2022. *under review*
+
+1. [*Delayed weight Adaptive Importance Sampling*.]
+        with  Sylvain Le Corff, Yohan Petetin and Julien Stoehr. 2022. *working paper*
+
 1. [*Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach*.](https://arxiv.org/pdf/2204.01401.pdf)  
         **Yazid Janati El idrissi**, Sylvain Le Corff, Yohan Petetin. 2022.  
         *under review*. Presented at the [5th Sequential Monte Carlo workshop](https://smc2022.webs.tsc.uc3m.es) in Madrid.
