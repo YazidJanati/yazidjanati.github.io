@@ -34,6 +34,6 @@ Don't hesitate to get in touch if you want to collaborate, my e-mail is j****i.y
 - Rencontres statistiques du CEREMADE, *Université Paris Dauphine, 07/11/2022.*  
 - MIA seminar, *Agro ParisTech, 09/2022.*  
 - Mathematics in Machine Learning summer school, *UM6P University, Ben Guerir, 07/2022.*  
-- 5th SMC workshop, *UC3M, Madrid*, 05/2022.  
+- 5th SMC workshop (poster), *UC3M, Madrid*, 05/2022.  
 - PhD students seminar, *Télécom Paris*, 04/2022.   
-- NeuRIPS in Paris, *SCAI Sorbonne, 11/2021.*  
+- NeuRIPS in Paris (poster), *SCAI Sorbonne, 11/2021.*  
