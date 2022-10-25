@@ -8,10 +8,10 @@ Don't hesitate to get in touch if you want to collaborate !
 
 
 ## research [Google Scholar](https://scholar.google.com/citations?user=JGor6XwAAAAJ&hl=en)
-1. [*Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach*.]
+1. [*State and parameter learning with PaRISian Particle Gibbs*.]()
         with Gabriel Cardoso, Sylvain Le Corff, Eric Moulines and Jimmy Olsson. 2022. *under review*
 
-1. [*Delayed weight Adaptive Importance Sampling*.]
+1. [*Delayed weight Adaptive Importance Sampling*.]()
         with  Sylvain Le Corff, Yohan Petetin and Julien Stoehr. 2022. *working paper*
 
 1. [*Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach*.](https://arxiv.org/pdf/2204.01401.pdf)  
