@@ -1,5 +1,5 @@
 
-I am a second year PhD candidate in statistics at Télécom SudParis - Institut Polytechnique de Paris, advised by [Sylvain Le Corff](https://sylvainlc.github.io) (*LPSM*, Sorbonne Université) and [Yohan Petetin](http://www-public.imtbs-tsp.eu/~petetin/) (*CITI*, Télécom SudParis). Previously I completed an engineering degree in applied Mathematics at Télécom SudParis.
+I am a third year PhD candidate in statistics at Télécom SudParis - Institut Polytechnique de Paris, advised by [Sylvain Le Corff](https://sylvainlc.github.io) (*LPSM*, Sorbonne Université) and [Yohan Petetin](http://www-public.imtbs-tsp.eu/~petetin/) (*CITI*, Télécom SudParis). Previously I completed an engineering degree in applied Mathematics at Télécom SudParis.
 
 I am mainly interested in Monte Carlo methods (importance sampling, sequential monte carlo, MCMC), the theory behind and their synergy with
 variational inference. These days i am mostly working on finding efficient proposals for importance sampling through the minimization of divergence measures.    I am also into Bayesian methods and Information Theory.
