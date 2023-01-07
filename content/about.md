@@ -8,24 +8,20 @@ Don't hesitate to get in touch if you want to collaborate, my e-mail is j****i.y
 
 
 ## research [Google Scholar](https://scholar.google.com/citations?user=JGor6XwAAAAJ&hl=en)
-1. [*State and parameter learning with PaRISian Particle Gibbs*.]()  
+1. [*State and parameter learning with PaRISian Particle Gibbs*.](https://arxiv.org/abs/2301.00900)  
         with Gabriel Cardoso, Sylvain Le Corff, Eric Moulines and Jimmy Olsson. 2022.   
         *under review*
 
-1. [*Delayed weight Adaptive Importance Sampling*.]()  
-        with  Sylvain Le Corff, Yohan Petetin and Julien Stoehr. 2022.  
-        *working paper*
-
 1. [*Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach*.](https://arxiv.org/pdf/2204.01401.pdf)  
         with Sylvain Le Corff and Yohan Petetin. 2022.  
-        *under review*. Poster presentation at the [5th SMC workshop](https://smc2022.webs.tsc.uc3m.es) in Madrid.
+        *Bernoulli*.
 
 1. [*NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform.*](https://proceedings.neurips.cc/paper/2021/file/8dd291cbea8f231982db0fb1716dfc55-Paper.pdf)  
         with Arnaud Doucet, Alain Durmus, Sylvain Le Corff, Eric Moulines, Charles Ollion, Christian X. Robert and Achille Thin.  
         *Advances in Neural Information Processing Systems (NeurIPS) 34 (2021): 17060-17071.*
 
 1. [*Structured variational Bayesian inference for Gaussian state-space models with regime switching.*]()  
-        with François Desbouvries and Yohan Petetin. 
+        with François Desbouvries and Yohan Petetin.  
         *IEEE Signal Processing Letters 28 (2021): 1953-1957.* 
 
 ## talks and posters
