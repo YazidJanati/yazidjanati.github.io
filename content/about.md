@@ -13,13 +13,8 @@ Don't hesitate to get in touch if you want to collaborate, my e-mail is j****i.y
         *under review*
 
 1. [*Variance estimation for Sequential Monte Carlo Algorithms: a backward sampling approach*.](https://arxiv.org/pdf/2204.01401.pdf)  
-<<<<<<< HEAD
         with Sylvain Le Corff and Yohan Petetin. 2022.   
         *to appear in Bernoulli*.
-=======
-        with Sylvain Le Corff and Yohan Petetin. 2022.  
-        *under review*. Presented at the [5th Sequential Monte Carlo workshop](https://smc2022.webs.tsc.uc3m.es) in Madrid.
->>>>>>> parent of 9fac82e (...)
 
 1. [*NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform.*](https://proceedings.neurips.cc/paper/2021/file/8dd291cbea8f231982db0fb1716dfc55-Paper.pdf)  
         with Arnaud Doucet, Alain Durmus, Sylvain Le Corff, Eric Moulines, Charles Ollion, Christian X. Robert and Achille Thin.  
