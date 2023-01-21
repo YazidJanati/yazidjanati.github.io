@@ -1,144 +1,144 @@
 body {
-    margin: 0;
-  }
-  
-  #title {
-    margin: 0 5% 0 0;
-    padding: 2% 5% 2% 4%;
-    border-right: 0px dashed #000;
-  /*  border-left: 1px solid #000; */
-  /*  background-color: #abc;  */
-  }
-  
-  .boldbig {
-    font-size: 150%;
-    font-weight: bold;
-  }
-  .boldbig2 {
-    font-size: 150%;
-    font-weight: bold;
-    margin-bottom: 10px;
-    margin-top: 10px;
-  }
-  .main {
-    margin: 0 5% 0 0;
-    padding: 2% 6% 2% 6%;
-    border-right: 0px solid #000;
-  /*  line-height: 150%; */
-  /*  border-left: 1px solid #000; */
-  /*  background-color: #def; */
-    _padding-top: 3%; 
-  }
-  
-  .poem {
-    white-space: pre;
-  }
-  
-  #footer {
-    margin: 0 5% 0 0;
-    padding: 2% 6% 2% 6%;
-    border-right: 0px dashed #000;
-  /*  border-left: 1px solid #000; */
-    font-size: 80%;
-    height: 30px;
-  /*  background-color: #cde; */
-  }
-  .post {
-    padding: 2% 0 2% 0;
-    font-size: 80%;
-    line-height: 150%;
-  }
-  .zimbol {
-    color: #999;
-    font-size: 80%;
-  }
-  img {
-    vertical-align: middle;
-  /*  margin-right: 5px;
-    margin-bottom: 5px; */
-  }
-  p {
-    margin-bottom: 5px;
-  }
-  ul {
-    margin: 0;
-    margin-top: 10px;
-  }
-  ul.li {
-    margin: 0;
-    padding: 0;
-  }
-  a {
-    text-decoration:none;
-  }
-  a:link, a:active, a:visited{
-    color: #119;
-  }
-  a:hover {
-    color: #090;
-    /* border-bottom: 1px dashed #090; */
-    padding-bottom: 1px;
-  }
-  table {
-    margin: 0;
-  }
-  table td {
-    padding: 0;
-    padding-left: 50px;
-    vertical-align: top;
-  }
-  .line {
-    border-bottom: 1px solid #000;
-  }
-  .dline {
-    border-bottom: 1px dashed #777;
-  }
-  
-  p {
-    margin-bottom: 0px;
-  }
-  
-  /* Container holding the image and the text */
-  .container {
-      position: relative;
-      text-align: left;
-      color: black;
-  }
-  
-  /* Bottom left text */
-  .bottom-left {
-      position: absolute;
-      bottom: 8px;
-      left: 16px;
-      right: 200px;
-  }
-  
-  /* Top left text */
-  .top-left {
-      position: absolute;
-      top: 8px;
-      left: 16px;
-      right: 200px;
-  }
-  
-  /* Top right text */
-  .top-right {
-      position: absolute;
-      top: 8px;
-      right: 16px;
-  }
-  
-  /* Bottom right text */
-  .bottom-right {
-      position: absolute;
-      bottom: 8px;
-      right: 16px;
-  }
-  
-  /* Centered text */
-  .centered {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-  } 
+  margin: 0;
+}
+
+#title {
+  margin: 0 5% 0 0;
+  padding: 2% 5% 2% 4%;
+  border-right: 0px dashed #000;
+/*  border-left: 1px solid #000; */
+/*  background-color: #abc;  */
+}
+
+.boldbig {
+  font-size: 150%;
+  font-weight: bold;
+}
+.boldbig2 {
+  font-size: 150%;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.main {
+  margin: 0 5% 0 0;
+  padding: 2% 100% 2% 6%;
+  border-right: 0px solid #000;
+/*  line-height: 150%; */
+/*  border-left: 1px solid #000; */
+/*  background-color: #def; */
+  _padding-top: 3%; 
+}
+
+.poem {
+  white-space: pre;
+}
+
+#footer {
+  margin: 0 5% 0 0;
+  padding: 2% 6% 2% 6%;
+  border-right: 0px dashed #000;
+/*  border-left: 1px solid #000; */
+  font-size: 80%;
+  height: 30px;
+/*  background-color: #cde; */
+}
+.post {
+  padding: 2% 0 2% 0;
+  font-size: 80%;
+  line-height: 150%;
+}
+.zimbol {
+  color: #999;
+  font-size: 80%;
+}
+img {
+  vertical-align: middle;
+/*  margin-right: 5px;
+  margin-bottom: 5px; */
+}
+p {
+  margin-bottom: 5px;
+}
+ul {
+  margin: 0;
+  margin-top: 10px;
+}
+ul.li {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration:none;
+}
+a:link, a:active, a:visited{
+  color: #119;
+}
+a:hover {
+  color: #090;
+  /* border-bottom: 1px dashed #090; */
+  padding-bottom: 1px;
+}
+table {
+  margin: 0;
+}
+table td {
+  padding: 0;
+  padding-left: 50px;
+  vertical-align: top;
+}
+.line {
+  border-bottom: 1px solid #000;
+}
+.dline {
+  border-bottom: 1px dashed #777;
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: left;
+    color: black;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    right: 200px;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    right: 200px;
+}
+
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
