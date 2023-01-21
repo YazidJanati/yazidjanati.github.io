@@ -1,6 +1,0 @@
-[submodule "themes/researcher"]
-	path = themes/researcher
-	url = https://github.com/ojroques/hugo-researcher.git
-[submodule "academic-website/themes/researcher"]
-	path = academic-website/themes/researcher
-	url = https://github.com/ojroques/hugo-researcher.git
